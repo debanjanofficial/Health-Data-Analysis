@@ -1,7 +1,7 @@
 # Health-Data-Analysis
 
 ### Objective
-The objective of this Health Data Analysis project is to analyze various aspects of health data, including patient demographics, disease prevalence, and healthcare utilization. The goal is to identify trends and patterns that can inform healthcare strategies, improve patient outcomes, and optimize resource allocation.
+The objective of this data analysis project is to gain a deeper understanding of Obsessive-Compulsive Disorder (OCD) among patients. By analyzing various aspects of OCD patient data, including demographic information, types of compulsions and obsessions, and severity scores, this project aims to identify patterns and trends that can inform better treatment strategies, enhance patient outcomes, and optimize resource allocation in mental health services.
 
 ### Working
 This project involves several critical steps, starting with data extraction using SQL commands, followed by data visualization in Power BI. 
