@@ -3,6 +3,22 @@
 ### Objective
 The objective of this Health Data Analysis project is to analyze various aspects of health data, including patient demographics, disease prevalence, and healthcare utilization. The goal is to identify trends and patterns that can inform healthcare strategies, improve patient outcomes, and optimize resource allocation.
 
+### Working
+This project involves several critical steps, starting with data extraction using SQL commands, followed by data visualization in Power BI. 
+The discussion points include:
+
+**Data Extraction and Preparation**:
+Using SQL queries to extract relevant data from the database.
+Cleaning and transforming the data to ensure accuracy and consistency.
+
+**Descriptive Statistics and Analysis**:
+Summarizing key metrics such as patient counts, gender distribution, and ethnicity.
+Analyzing the prevalence of various compulsion and obsession types.
+
+**Data Visualization**:
+Creating visual representations of the data to highlight trends and patterns.
+Utilizing different chart types such as line charts, bar charts, and pie charts.
+
 ### Discussion
 The Health Analytics Dashboard provides insights into several key areas:
 
